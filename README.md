@@ -3,6 +3,7 @@
 #Download the code and try to run the program in Jupyter Notebook or VS code.
 #Required Liberaries are pandas, Matplot, numpy, random. 
 #The essential liberaries are  included in the code.
+
 Using Reinforcement Learning algorithm: A simple Q-learning and Q-Learning with a heuristic
 
 This repository contains code to train an agent which can navigate in a grid to reach its Goal state by chosing an optimal path. Agent is trained using Q-learning algorithm. Performance of the whole training is optimised using a heuristic function.
