@@ -1,7 +1,7 @@
 # Intelligent_path_navigator
 
-#Download the code and try to run the program in Jupyter Notebook or VS code.
-#Required Liberaries are pandas, Matplot, numpy, random. 
+# Download the code and try to run the program in Jupyter Notebook or VS code.
+# Required Liberaries are pandas, Matplot, numpy, random. 
 #The essential liberaries are  included in the code.
 
 Using Reinforcement Learning algorithm: A simple Q-learning and Q-Learning with a heuristic
